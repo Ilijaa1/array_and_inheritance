@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Fajlovi\ETŠ Nikola Tesla\Treci razred\Programiranje\Klase C#\array_and_inheritance\array_and_inheritance\bin\Debug\net6.0\array_and_inheritance.exe
+C:\Users\PC\Desktop\Fajlovi\ETŠ Nikola Tesla\Treci razred\Programiranje\Klase C#\array_and_inheritance\array_and_inheritance\bin\Debug\net6.0\array_and_inheritance.deps.json
+C:\Users\PC\Desktop\Fajlovi\ETŠ Nikola Tesla\Treci razred\Programiranje\Klase C#\array_and_inheritance\array_and_inheritance\bin\Debug\net6.0\array_and_inheritance.runtimeconfig.json
+C:\Users\PC\Desktop\Fajlovi\ETŠ Nikola Tesla\Treci razred\Programiranje\Klase C#\array_and_inheritance\array_and_inheritance\bin\Debug\net6.0\array_and_inheritance.dll
+C:\Users\PC\Desktop\Fajlovi\ETŠ Nikola Tesla\Treci razred\Programiranje\Klase C#\array_and_inheritance\array_and_inheritance\bin\Debug\net6.0\array_and_inheritance.pdb
+C:\Users\PC\Desktop\Fajlovi\ETŠ Nikola Tesla\Treci razred\Programiranje\Klase C#\array_and_inheritance\array_and_inheritance\obj\Debug\net6.0\array_and_inheritance.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Fajlovi\ETŠ Nikola Tesla\Treci razred\Programiranje\Klase C#\array_and_inheritance\array_and_inheritance\obj\Debug\net6.0\array_and_inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Fajlovi\ETŠ Nikola Tesla\Treci razred\Programiranje\Klase C#\array_and_inheritance\array_and_inheritance\obj\Debug\net6.0\array_and_inheritance.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Fajlovi\ETŠ Nikola Tesla\Treci razred\Programiranje\Klase C#\array_and_inheritance\array_and_inheritance\obj\Debug\net6.0\array_and_inheritance.AssemblyInfo.cs
+C:\Users\PC\Desktop\Fajlovi\ETŠ Nikola Tesla\Treci razred\Programiranje\Klase C#\array_and_inheritance\array_and_inheritance\obj\Debug\net6.0\array_and_inheritance.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Fajlovi\ETŠ Nikola Tesla\Treci razred\Programiranje\Klase C#\array_and_inheritance\array_and_inheritance\obj\Debug\net6.0\array_and_inheritance.dll
+C:\Users\PC\Desktop\Fajlovi\ETŠ Nikola Tesla\Treci razred\Programiranje\Klase C#\array_and_inheritance\array_and_inheritance\obj\Debug\net6.0\refint\array_and_inheritance.dll
+C:\Users\PC\Desktop\Fajlovi\ETŠ Nikola Tesla\Treci razred\Programiranje\Klase C#\array_and_inheritance\array_and_inheritance\obj\Debug\net6.0\array_and_inheritance.pdb
+C:\Users\PC\Desktop\Fajlovi\ETŠ Nikola Tesla\Treci razred\Programiranje\Klase C#\array_and_inheritance\array_and_inheritance\obj\Debug\net6.0\array_and_inheritance.genruntimeconfig.cache
+C:\Users\PC\Desktop\Fajlovi\ETŠ Nikola Tesla\Treci razred\Programiranje\Klase C#\array_and_inheritance\array_and_inheritance\obj\Debug\net6.0\ref\array_and_inheritance.dll

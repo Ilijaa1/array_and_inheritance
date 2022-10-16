@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "array_and_inheritance/1.0.0": {
+        "runtime": {
+          "array_and_inheritance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "array_and_inheritance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
